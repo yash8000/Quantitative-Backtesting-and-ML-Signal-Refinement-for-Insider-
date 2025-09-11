@@ -1,0 +1,42 @@
+SYMBOL ,"COMPANY 
+","REGULATION 
+","NAME OF THE ACQUIRER/DISPOSER 
+",CATEGORY OF PERSON ,"DERIVATIVE TYPE SECURITY 
+","DERIVATIVE CONTRACT SPECIFICATION 
+","NOTIONAL VALUE(BUY) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE (BUY) 
+","NOTIONAL VALUE(SELL) 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+","EXCHANGE 
+","BROADCASTE DATE AND TIME 
+","XBRL 
+"
+MINDTREE,MindTree Limited,7(2),Kodandapani SP,Employees/Designated Employees,OPTSTK MINDTREE L 28JUL22 PE 2450.00,Options,492300,200,490320,200,NSE,28-Sep-2022 22:10,https://nsearchives.nseindia.com/corporate/xbrl/IT_1134184_715418_28092022101018_WEB.xml
+MINDTREE,MindTree Limited,7(2),Kodandapani SP,Employees/Designated Employees,OPTSTK MINDTREE L 28JUL22 PE 2700.00,Options,541280,200,551250,200,NSE,28-Sep-2022 22:10,https://nsearchives.nseindia.com/corporate/xbrl/IT_1134184_715418_28092022101018_WEB.xml
+AUBANK,AU Small Finance Bank Limited,7(2),Saurabh Acharya,Employees/Designated Employees,AUBANK22NOV600CE,Options,619800,1000,620200,1000,NSE,21-Nov-2022 19:01,https://nsearchives.nseindia.com/corporate/xbrl/IT_1135966_746956_21112022070156_WEB.xml
+AUBANK,AU Small Finance Bank Limited,7(2),Pawan Singh,Employees/Designated Employees,AUBANK22NOV650CE,Options,1990900,3000,1995000,3000,NSE,21-Nov-2022 19:01,https://nsearchives.nseindia.com/corporate/xbrl/IT_1135966_746956_21112022070156_WEB.xml
+AUBANK,AU Small Finance Bank Limited,7(2),Pawan Singh,Employees/Designated Employees,AUBANK22NOV650CE,Options,658600,1000,661050,1000,NSE,21-Nov-2022 19:01,https://nsearchives.nseindia.com/corporate/xbrl/IT_1135966_746956_21112022070156_WEB.xml
+AUBANK,AU Small Finance Bank Limited,7(2),Amit Kumar Vijay,Employees/Designated Employees,AUBANK23APR650CE,Options,652000,1000,652100,1000,NSE,10-Apr-2023 22:04,https://nsearchives.nseindia.com/corporate/xbrl/IT_1144452_813347_10042023100432_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Tushar Bhardwaj,Employees/Designated Employees,M&M OPT 29MAR 23 PE 1160,Options,2674,700,14497,700,NSE,13-May-2023 19:53,https://nsearchives.nseindia.com/corporate/xbrl/IT_1144960_842333_13052023075310_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Tushar Bhardwaj,Employees/Designated Employees,M&M OPT 29MAR 23 PE 1240,Options,67819,700,7784,700,NSE,13-May-2023 19:53,https://nsearchives.nseindia.com/corporate/xbrl/IT_1144960_842333_13052023075310_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Tushar Bhardwaj,Employees/Designated Employees,M&M OPT 29MAR 23 PE 1260,Options,12516,700,14882,700,NSE,13-May-2023 19:53,https://nsearchives.nseindia.com/corporate/xbrl/IT_1144960_842333_13052023075310_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Tushar Bhardwaj,Employees/Designated Employees,M&M OPT 29MAR 23 PE 1220,Options,7399,700,7154,700,NSE,13-May-2023 19:53,https://nsearchives.nseindia.com/corporate/xbrl/IT_1144960_842333_13052023075310_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Tushar Bhardwaj,Employees/Designated Employees,M&M OPT 27APR 23 PE 1000,Options,6608,1400,0,1400,NSE,13-May-2023 19:53,https://nsearchives.nseindia.com/corporate/xbrl/IT_1144960_842333_13052023075310_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Tushar Bhardwaj,Employees/Designated Employees,M&M OPT 27APR 23 PE 1040,Options,3059,700,0,700,NSE,13-May-2023 19:53,https://nsearchives.nseindia.com/corporate/xbrl/IT_1144960_842333_13052023075310_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Tushar Bhardwaj,Employees/Designated Employees,M&M FUT 27APR 23,Futures,806190,700,856779,700,NSE,13-May-2023 19:53,https://nsearchives.nseindia.com/corporate/xbrl/IT_1144960_842333_13052023075310_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Tushar Bhardwaj,Employees/Designated Employees,M&M OPT 29MAR 23 PE 1040,Options,1344,700,0,700,NSE,13-May-2023 19:53,https://nsearchives.nseindia.com/corporate/xbrl/IT_1144960_842333_13052023075310_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Rohit Raina,Employees/Designated Employees,M&M OPT 29JUN 23 CE 1340,Options,57819.93,2100,62544.93,2100,NSE,19-Jul-2023 23:39,https://nsearchives.nseindia.com/corporate/xbrl/IT_1149072_893723_19072023113940_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Bharathy Karunanidhi,Employees/Designated Employees,CE 1600,Options,6198.17,1050,6194.2,1050,NSE,11-Jan-2024 18:58,https://nsearchives.nseindia.com/corporate/xbrl/IT_1158985_1017273_11012024065838_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Bharathy Karunanidhi,Employees/Designated Employees,CE 1560,Options,6238.49,350,7231.78,350,NSE,11-Jan-2024 18:58,https://nsearchives.nseindia.com/corporate/xbrl/IT_1158985_1017273_11012024065838_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Bharathy Karunanidhi,Employees/Designated Employees,CE 1580,Options,12395.53,1050,10541.29,1050,NSE,11-Jan-2024 18:58,https://nsearchives.nseindia.com/corporate/xbrl/IT_1158985_1017273_11012024065838_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Bharathy Karunanidhi,Employees/Designated Employees,PE 1480,Options,0,0,1759.64,700,NSE,11-Jan-2024 18:58,https://nsearchives.nseindia.com/corporate/xbrl/IT_1158985_1017273_11012024065838_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Bharathy Karunanidhi,Employees/Designated Employees,CE 1650,Options,0,0,3577.88,700,NSE,11-Jan-2024 18:58,https://nsearchives.nseindia.com/corporate/xbrl/IT_1158985_1017273_11012024065838_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Bharathy Karunanidhi,Employees/Designated Employees,OCT FUTURES,Futures,0,0,1095315.54,700,NSE,11-Jan-2024 18:58,https://nsearchives.nseindia.com/corporate/xbrl/IT_1158985_1017273_11012024065838_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Bharathy Karunanidhi,Employees/Designated Employees,OCT FUTURES,Futures,1097740.17,700,1096855.31,700,NSE,11-Jan-2024 18:58,https://nsearchives.nseindia.com/corporate/xbrl/IT_1158985_1017273_11012024065838_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Bharathy Karunanidhi,Employees/Designated Employees,PE 1500,Options,3595,700,2703.72,700,NSE,11-Jan-2024 18:58,https://nsearchives.nseindia.com/corporate/xbrl/IT_1158985_1017273_11012024065838_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Palanivelu Prabaharan,Employees/Designated Employees,MAHINDRA & MAHINDRA LTD. 31OCT24 CE 3000,Options,20300,350,25375,350,NSE,08-Nov-2024 17:54,https://nsearchives.nseindia.com/corporate/xbrl/IT_1173044_1301870_08112024055437_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Maninder Singh,Employees/Designated Employees,M&M-OPTSTK-31OCT2024-CE-3400.00,Options,0,350,6300,350,NSE,13-Nov-2024 18:37,https://nsearchives.nseindia.com/corporate/xbrl/IT_1173246_1309376_13112024063754_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Maninder Singh,Employees/Designated Employees,M&M-OPTSTK-28NOV2024-CE-3250.00,Options,1960,350,3500,350,NSE,13-Nov-2024 18:37,https://nsearchives.nseindia.com/corporate/xbrl/IT_1173246_1309376_13112024063754_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Maninder Singh,Employees/Designated Employees,M&M-OPTSTK-28NOV2024-CE-3350.00,Options,1120,350,2100,350,NSE,13-Nov-2024 18:37,https://nsearchives.nseindia.com/corporate/xbrl/IT_1173246_1309376_13112024063754_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Maninder Singh,Employees/Designated Employees,M&M-OPTSTK-31OCT2024-CE-3300.00,Options,0,350,10675,350,NSE,13-Nov-2024 18:37,https://nsearchives.nseindia.com/corporate/xbrl/IT_1173246_1309376_13112024063754_WEB.xml
+M&M,Mahindra & Mahindra Limited,7(2),Maninder Singh,Employees/Designated Employees,M&M-OPTSTK-28NOV2024-CE-3300.00,Options,1487.5,350,2800,350,NSE,13-Nov-2024 18:37,https://nsearchives.nseindia.com/corporate/xbrl/IT_1173246_1309376_13112024063754_WEB.xml
